@@ -9,8 +9,7 @@ public class EinZeileCode {
 		//double d=x+10;
 		//double e=x-4.1;
 		//double f=d*e;
-		//double g=c-f; 
-		//System.out.println(g);
+		
 		  
 		System.out.println(((Math.sqrt(3.5+15.5)*5)/3)-((15.5+10)*(15.5-4.1))); 
 	}
